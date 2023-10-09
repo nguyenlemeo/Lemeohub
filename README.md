@@ -1,5 +1,3 @@
-# Lemeohub
-Newbie😭😭😭
 do local GUI = game.CoreGui:FindFirstChild("SOMEXHUB");if GUI then GUI:Destroy();end;if _G.Color == nil then
        _G.Color = Color3.fromRGB(0,255,0)
    end 
@@ -61,7 +59,7 @@ end
 
 function Notification(text)
 game.StarterGui:SetCore("SendNotification", {
-  Title = "GRASS HUB"; -- the title (ofc)
+  Title = "Lemeo HUB"; -- the title (ofc)
   Text = text; -- what the text says (ofc)
   Icon = "rbxassetid://13214520023"; -- the image if u want.
   Duration = 3; -- how long the notification should in secounds
