@@ -125,7 +125,7 @@ Top.ZIndex = 2
 	Name.Position = UDim2.new(0.107756112, 0, 0, 0)
 	Name.Size = UDim2.new(0, 50, 0, 27)
 	Name.Font = Enum.Font.GothamSemibold
-	Name.Text = "GRASS HUB"
+	Name.Text = "GRASS HU"
 	Name.TextColor3 = Color3.fromRGB(0, 255, 0)
 	Name.TextSize = 17.000
 
