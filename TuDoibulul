@@ -2035,7 +2035,7 @@ end)
 
 
 AutoFarm:AddToggle({
-	Name = "Lấy Dark Danger",
+	Name = "Lấy Dark Dagger",
 	Default = false,
 	Callback = function(Value)
 		AutoDarkDagger = Value
