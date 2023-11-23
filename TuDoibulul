@@ -142,7 +142,7 @@ local RaceV4 = Window:MakeTab({
 
 
 Setting:AddToggle({
-	Name = "Đánh siêu nhanh không kick",
+	Name = "Đánh Tú siêu nhanh không kick🤑",
 	Default = true,
 	Callback = function(Value)
 		 _G.FastAttack1 = Value
