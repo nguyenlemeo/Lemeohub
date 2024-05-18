@@ -1,4 +1,4 @@
-local Lemeo hub🤑= Instance.new("ScreenGui")
+local MM2AdminPanel= Instance.new("ScreenGui")
 local MainFrame = Instance.new("Frame")
 local StartFrame = Instance.new("ImageLabel")
 local BottomFrame = Instance.new("Frame")
