@@ -1,4 +1,6 @@
-local MM2AdminPanel= Instance.new("ScreenGui")
+]]--
+
+local MM2AdminPanel = Instance.new("ScreenGui")
 local MainFrame = Instance.new("Frame")
 local StartFrame = Instance.new("ImageLabel")
 local BottomFrame = Instance.new("Frame")
@@ -77,12 +79,12 @@ local TopFrame = Instance.new("Frame")
 local Title_17 = Instance.new("TextLabel")
 local MinimizeButton = Instance.new("TextButton")
 
-MM2AdminPanel.Name = "Lemeo hub - Made by:NBT"
+MM2AdminPanel.Name = "MM2AdminPanel"
 MM2AdminPanel.Parent = game.CoreGui
 MM2AdminPanel.ResetOnSpawn = false
 
 MainFrame.Name = "MainFrame"
-MainFrame.Parent = Lemeo hub
+MainFrame.Parent = MM2AdminPanel
 MainFrame.AnchorPoint = Vector2.new(0.5, 0.5)
 MainFrame.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
 MainFrame.BackgroundTransparency = 1.000
