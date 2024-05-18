@@ -82,7 +82,7 @@ MM2AdminPanel.Parent = game.CoreGui
 MM2AdminPanel.ResetOnSpawn = false
 
 MainFrame.Name = "MainFrame"
-MainFrame.Parent = MM2AdminPanel
+MainFrame.Parent = Lemeo hub
 MainFrame.AnchorPoint = Vector2.new(0.5, 0.5)
 MainFrame.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
 MainFrame.BackgroundTransparency = 1.000
